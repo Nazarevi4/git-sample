@@ -1,3 +1,10 @@
 hello it is a new file for this current branch.
+<<<<<<< HEAD
 SO sorry...
+<<<<<<< HEAD
 Maybe I maybe you...
+=======
+=======
+my changes.
+>>>>>>> 3e90382 (Change file)
+>>>>>>> 584c377 (Change file)
