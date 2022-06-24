@@ -1,2 +1,2 @@
 # git-sample
-# Hello new line
+# Hello
